@@ -11,8 +11,6 @@ Feel free to collaborate o/
 - http://arquiteturadeinformacao.com/
 - http://tableless.com.br
 
-
-
 ### People
 - https://twitter.com/reinaldoferraz
 - https://twitter.com/fabriciot
@@ -38,7 +36,7 @@ Feel free to collaborate o/
 - http://frontenddevreactions.tumblr.com/
 
 ***
-## Accessibilty
+## Accessibility
 
 ### Info
 - http://a11yproject.com/
@@ -49,7 +47,13 @@ Feel free to collaborate o/
 
 ### Tools
 - https://en.wikipedia.org/wiki/List_of_screen_readers
-- http://www.chromevox.com/
+- http://www.chromevox.com/ (Screen reader for chrome)
+- http://www.coloradd.net/why.asp
+- http://colorsafe.co/
+- http://webaim.org/resources/contrastchecker/
+- http://achecker.ca/checker/index.php
+- http://wave.webaim.org/
+- http://www.w3.org/WAI/ER/tools/
 
 ***
 ## Modular/Components/Design
