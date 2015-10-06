@@ -35,6 +35,15 @@ Feel free to collaborate o/
 ### Fun
 - http://frontenddevreactions.tumblr.com/
 
+
+***
+## User
+- http://www.uxdesign.blog.br/design-thinking/habitos-de-empatia/
+- http://catarinasdesign.com.br/personas-no-design-de-interface/
+- https://medium.com/@Aerochimps/o-papel-das-personas-para-a-ux-11993a8d5959
+- http://catarinasdesign.com.br/o-que-voce-pode-aprender-conversando-com-seu-usuario/
+
+
 ***
 ## Accessibility
 
@@ -44,6 +53,7 @@ Feel free to collaborate o/
 - http://mcdlr.com/wai-aria-cheatsheet/
 - http://www.standardista.com/standards/wai-aria-accessible-rich-internet-applications-basics/
 - https://www.paciellogroup.com/blog/2011/03/html5-accessibility-chops-section-elements/
+- http://www.uxdesign.blog.br/acessibilidade/daltonismo-acessibilidade/
 
 ### Tools
 - https://en.wikipedia.org/wiki/List_of_screen_readers
@@ -55,12 +65,23 @@ Feel free to collaborate o/
 - http://wave.webaim.org/
 - http://www.w3.org/WAI/ER/tools/
 
+
 ***
-## Modular/Components/Design
+## Content
+- http://arquiteturadeinformacao.com/usabilidade/o-excesso-de-informacao-para-o-bem-ou-para-o-mal
+- http://alistapart.com/blog/post/prioritizing-structure-in-web-content-projects
+- http://alistapart.com/blog/post/content-first-design
+- http://bradfrost.com/blog/mobile/content-parity/
+
+
+***
+## Design
 - http://alistapart.com/article/language-of-modular-design
 - http://alistapart.com/blog/post/context-makes-our-devices
 - http://www.lukew.com/ff/entry.asp?1950
 - https://medium.com/@prottapp/who-are-designers-anyway-b1a2d11e704a
+- http://arquiteturadeinformacao.com/user-experience/nosso-trabalho-e-desenhar-cada-vez-menos-interfaces/
+- http://thomasbyttebier.be/blog/the-best-icon-is-a-text-label
 
 
 ***
@@ -78,19 +99,6 @@ Feel free to collaborate o/
 - http://mobilehtml5.org/
 - https://ssl.gstatic.com/think/docs/the-new-multi-screen-world-study_research-studies.pdf
 
-***
-## User
-- http://catarinasdesign.com.br/personas-no-design-de-interface/
-- https://medium.com/@Aerochimps/o-papel-das-personas-para-a-ux-11993a8d5959
-- http://catarinasdesign.com.br/o-que-voce-pode-aprender-conversando-com-seu-usuario/
-
-***
-## Content
-- http://thomasbyttebier.be/blog/the-best-icon-is-a-text-label
-- http://arquiteturadeinformacao.com/usabilidade/o-excesso-de-informacao-para-o-bem-ou-para-o-mal
-- http://alistapart.com/blog/post/prioritizing-structure-in-web-content-projects
-- http://alistapart.com/blog/post/content-first-design
-- http://bradfrost.com/blog/mobile/content-parity/
 
 ***
 ## Performance
